@@ -1,4 +1,4 @@
-# Unity
+# Unity 自动生成的缓存、构建和日志
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,8 +6,21 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
 
-# Visual Studio
+# macOS & Windows 垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE 缓存
 .vs/
 *.user
 *.suo
+*.sln.docstates
+.idea/
+*.swp
